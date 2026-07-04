@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="All rights reserved"
+issueTrackerURL="https://github.com/"
+
+[[mods]]
+modId="tradingblock"
+version="1.0.0"
+displayName="Trading Block"
+authors="Bastien"
+description='''
+Bloc permettant d'acheter n'importe quel item du modpack (vanilla + mods)
+pour 1 émeraude = 64 exemplaires.
+'''
+
+[[dependencies.tradingblock]]
+    modId="forge"
+    mandatory=true
+    versionRange="[43,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.tradingblock]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2,1.20)"
+    ordering="NONE"
+    side="BOTH"

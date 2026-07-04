@@ -1,0 +1,7 @@
+{
+  "block.tradingblock.trading_block": "Bloc d'Échange",
+  "itemGroup.tradingblock": "Trading Block",
+  "gui.tradingblock.search": "Rechercher un item...",
+  "gui.tradingblock.rate": "1 émeraude = 64 items",
+  "message.tradingblock.no_emerald": "Il faut au moins 1 émeraude dans le bloc !"
+}

@@ -1,0 +1,7 @@
+{
+  "block.tradingblock.trading_block": "Trading Block",
+  "itemGroup.tradingblock": "Trading Block",
+  "gui.tradingblock.search": "Search an item...",
+  "gui.tradingblock.rate": "1 emerald = 64 items",
+  "message.tradingblock.no_emerald": "You need at least 1 emerald in the block!"
+}

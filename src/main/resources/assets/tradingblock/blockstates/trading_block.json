@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "tradingblock:block/trading_block" }
+  }
+}
